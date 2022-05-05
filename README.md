@@ -1,3 +1,4 @@
+Note: This repository was originally cloned for skeleton clone for the purpose of learing iOS development
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Magic 8 Ball
